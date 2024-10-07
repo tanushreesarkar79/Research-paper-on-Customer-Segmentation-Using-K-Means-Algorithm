@@ -1,0 +1,463 @@
+﻿CustomerID,Gender,Age,Income,Score,Ware Pin,Customer Pin,Zone
+1,Male,55,55,72,515631,434011,Kurnool Region
+2,Male,43,57,44,515631,613712,Kurnool Region
+3,Female,30,66,31,515631,403813,Kurnool Region
+4,Female,30,38,92,515581,687163,Kurnool Region
+5,Female,34,73,23,515581,353527,Kurnool Region
+6,Female,40,59,40,515581,372643,Kurnool Region
+7,Female,56,41,77,515581,677205,Kurnool Region
+8,Female,19,57,44,515571,671299,Kurnool Region
+9,Male,39,70,9,515631,314897,Kurnool Region
+10,Female,39,45,75,515631,478618,Kurnool Region
+11,Male,62,53,48,515581,551215,Kurnool Region
+12,Female,57,55,88,515581,628124,Kurnool Region
+13,Female,60,70,21,515581,434834,Kurnool Region
+14,Female,34,65,72,515581,615575,Kurnool Region
+15,Male,43,52,88,515571,732118,Kurnool Region
+16,Male,66,46,86,515571,411938,Kurnool Region
+17,Female,35,55,76,515571,749067,Kurnool Region
+18,Male,20,83,52,515311,747985,Kurnool Region
+19,Male,52,65,88,515311,333392,Kurnool Region
+20,Female,35,67,89,515311,310882,Kurnool Region
+21,Male,35,66,57,515281,668183,Kurnool Region
+22,Male,25,82,15,515241,740333,Kurnool Region
+23,Female,46,84,37,515311,590527,Kurnool Region
+24,Male,31,53,77,515311,375512,Kurnool Region
+25,Female,54,37,62,515311,467265,Kurnool Region
+26,Male,29,45,88,515311,522267,Kurnool Region
+27,Female,45,60,27,515311,387753,Kurnool Region
+28,Male,35,39,49,515281,304015,Kurnool Region
+29,Female,40,56,45,515281,731658,Kurnool Region
+30,Female,23,29,55,515281,393547,Kurnool Region
+31,Male,60,74,41,515281,339943,Kurnool Region
+32,Female,21,53,11,515241,709673,Kurnool Region
+33,Male,53,82,54,534176,492305,Vijayawada Region
+34,Male,18,45,82,813105,352566,"East Region, Bhagalpur"
+35,Female,49,68,14,813105,353201,"East Region, Bhagalpur"
+36,Female,21,74,25,813105,314716,"East Region, Bhagalpur"
+37,Female,42,59,18,813105,510568,"East Region, Bhagalpur"
+38,Female,30,70,13,813203,448706,"East Region, Bhagalpur"
+39,Female,36,32,70,813203,403784,"East Region, Bhagalpur"
+40,Female,20,66,35,813203,414028,"East Region, Bhagalpur"
+41,Female,65,69,23,853202,609654,"East Region, Bhagalpur"
+42,Male,24,72,70,853202,735048,"East Region, Bhagalpur"
+43,Male,48,83,37,853202,634084,"East Region, Bhagalpur"
+44,Female,31,80,49,853202,384643,"East Region, Bhagalpur"
+45,Female,49,84,11,813222,654185,"East Region, Bhagalpur"
+46,Female,24,58,41,813222,414285,"East Region, Bhagalpur"
+47,Female,50,49,23,812005,418851,"East Region, Bhagalpur"
+48,Female,27,71,92,812005,644487,"East Region, Bhagalpur"
+49,Female,29,27,56,812005,316454,"East Region, Bhagalpur"
+50,Female,31,49,15,853203,307562,"East Region, Bhagalpur"
+51,Female,49,78,27,853203,578406,"East Region, Bhagalpur"
+52,Male,33,25,90,853203,563768,"East Region, Bhagalpur"
+53,Female,31,85,10,853203,349318,"East Region, Bhagalpur"
+54,Male,59,76,83,812006,429883,"East Region, Bhagalpur"
+55,Female,50,33,53,812006,589241,"East Region, Bhagalpur"
+56,Male,47,39,13,812006,772425,"East Region, Bhagalpur"
+57,Female,51,84,22,853204,358477,"East Region, Bhagalpur"
+58,Male,69,70,76,853204,583378,"East Region, Bhagalpur"
+59,Female,27,73,91,853204,693779,"East Region, Bhagalpur"
+60,Male,53,51,30,853204,608307,"East Region, Bhagalpur"
+61,Male,70,60,27,853204,583292,"East Region, Bhagalpur"
+62,Male,19,67,31,853204,722372,"East Region, Bhagalpur"
+63,Female,67,25,23,853204,672559,"East Region, Bhagalpur"
+64,Female,54,65,53,853204,633989,"East Region, Bhagalpur"
+65,Male,63,29,25,853204,466135,"East Region, Bhagalpur"
+66,Male,18,78,64,813209,593316,"East Region, Bhagalpur"
+67,Female,43,66,32,813209,509124,"East Region, Bhagalpur"
+68,Female,68,28,70,813209,764459,"East Region, Bhagalpur"
+69,Male,19,46,81,530052,500960,Visakhapatnam Region
+70,Female,32,72,78,515871,530649,Kurnool Region
+71,Male,70,80,22,515842,313806,Kurnool Region
+72,Female,47,55,60,515842,642895,Kurnool Region
+73,Female,60,79,11,515803,456990,Kurnool Region
+74,Female,60,67,76,515803,673464,Kurnool Region
+75,Male,59,59,91,515775,323484,Kurnool Region
+76,Male,26,70,49,515405,468975,Kurnool Region
+77,Female,45,73,77,515865,476608,Kurnool Region
+78,Male,40,30,35,515865,636979,Kurnool Region
+79,Female,23,31,45,515865,684377,Kurnool Region
+80,Female,49,39,43,515455,322834,Kurnool Region
+81,Male,57,52,71,515455,517033,Kurnool Region
+82,Male,38,72,70,515455,795810,Kurnool Region
+83,Male,67,70,87,515611,681542,Kurnool Region
+84,Female,46,53,16,515611,424896,Kurnool Region
+85,Female,21,80,79,515611,437632,Kurnool Region
+86,Male,48,56,32,515867,737744,Kurnool Region
+87,Female,55,50,36,515867,567709,Kurnool Region
+88,Female,22,68,23,515867,352523,Kurnool Region
+89,Female,34,33,33,515812,669660,Kurnool Region
+90,Female,50,78,31,515812,543958,Kurnool Region
+91,Female,68,36,37,515812,716188,Kurnool Region
+92,Male,18,64,67,515812,500668,Kurnool Region
+93,Male,48,80,26,515832,354437,Kurnool Region
+94,Female,40,65,18,515832,479386,Kurnool Region
+95,Female,32,85,19,515870,497972,Kurnool Region
+96,Male,24,39,83,531173,356191,Visakhapatnam Region
+97,Female,47,70,30,531219,389127,Visakhapatnam Region
+98,Female,27,75,58,515871,772117,Kurnool Region
+99,Male,48,70,31,515871,484208,Kurnool Region
+100,Male,20,83,87,515842,651922,Kurnool Region
+101,Female,23,68,18,813209,433679,"East Region, Bhagalpur"
+102,Female,49,66,13,813209,495831,"East Region, Bhagalpur"
+103,Male,67,72,19,853205,487342,"East Region, Bhagalpur"
+104,Male,26,53,30,853205,376209,"East Region, Bhagalpur"
+105,Male,49,52,52,813210,395912,"East Region, Bhagalpur"
+106,Female,21,84,13,813210,325914,"East Region, Bhagalpur"
+107,Female,66,79,62,813210,799246,"East Region, Bhagalpur"
+108,Male,54,76,75,813210,759015,"East Region, Bhagalpur"
+109,Male,68,34,42,813210,435630,"East Region, Bhagalpur"
+110,Male,66,38,57,813108,681216,"East Region, Bhagalpur"
+111,Male,65,36,43,813108,713674,"East Region, Bhagalpur"
+112,Female,19,45,13,813108,736250,"East Region, Bhagalpur"
+113,Female,38,40,14,813108,365104,"East Region, Bhagalpur"
+114,Male,19,67,51,813212,320831,"East Region, Bhagalpur"
+115,Female,18,82,61,813105,425412,"East Region, Bhagalpur"
+116,Female,19,73,76,813203,606491,"East Region, Bhagalpur"
+117,Female,63,34,16,853202,340404,"East Region, Bhagalpur"
+118,Female,49,29,82,853202,553004,"East Region, Bhagalpur"
+119,Female,51,73,70,853202,437370,"East Region, Bhagalpur"
+120,Female,50,54,29,853202,574480,"East Region, Bhagalpur"
+121,Male,27,42,23,813222,353930,"East Region, Bhagalpur"
+122,Female,38,60,22,813222,609444,"East Region, Bhagalpur"
+123,Female,40,64,26,813105,347663,"East Region, Bhagalpur"
+124,Male,39,72,18,813105,328035,"East Region, Bhagalpur"
+125,Male,45,28,91,813105,429024,"East Region, Bhagalpur"
+126,Male,49,34,34,813105,487515,"East Region, Bhagalpur"
+127,Female,35,79,41,813105,683306,"East Region, Bhagalpur"
+128,Female,41,46,43,813203,795059,"East Region, Bhagalpur"
+129,Female,49,48,71,813203,516169,"East Region, Bhagalpur"
+130,Female,24,54,12,813222,715642,"East Region, Bhagalpur"
+131,Female,49,53,69,813222,408074,"East Region, Bhagalpur"
+132,Female,52,80,91,812005,780663,"East Region, Bhagalpur"
+133,Male,25,40,65,853203,300523,"East Region, Bhagalpur"
+134,Female,41,74,42,853203,345809,"East Region, Bhagalpur"
+135,Male,38,54,24,853203,340589,"East Region, Bhagalpur"
+136,Female,45,49,74,853203,703428,"East Region, Bhagalpur"
+137,Female,26,65,20,515241,659155,Kurnool Region
+138,Female,38,73,79,515101,734572,Kurnool Region
+139,Male,36,64,16,503186,612513,Hyderabad Region
+140,Male,19,48,77,503180,463232,Hyderabad Region
+141,Female,22,68,73,503180,385686,Hyderabad Region
+142,Male,53,82,26,503187,359952,Hyderabad Region
+143,Male,44,85,45,503101,755439,Hyderabad Region
+144,Female,30,28,41,503125,611289,Hyderabad Region
+145,Male,20,73,10,503125,718798,Hyderabad Region
+146,Male,21,51,88,503125,503838,Hyderabad Region
+147,Female,54,60,32,503112,513037,Hyderabad Region
+148,Male,35,51,55,503112,468909,Hyderabad Region
+149,Female,18,52,73,344704,398766,Jodhpur Region
+150,Male,21,75,45,344032,515396,Jodhpur Region
+151,Female,36,69,82,342002,334387,Jodhpur Region
+152,Male,29,79,84,344706,370197,Jodhpur Region
+153,Female,53,80,73,503112,390630,Hyderabad Region
+154,Female,29,82,72,503124,403131,Hyderabad Region
+155,Male,31,62,88,503124,361532,Hyderabad Region
+156,Female,49,38,90,503309,794282,Hyderabad Region
+157,Male,42,72,64,503108,385375,Hyderabad Region
+158,Male,35,56,38,503302,343671,Hyderabad Region
+159,Female,33,50,51,503302,757394,Hyderabad Region
+160,Female,52,29,83,503201,395052,Hyderabad Region
+161,Female,36,82,52,503187,390381,Hyderabad Region
+162,Female,36,51,39,503101,560930,Hyderabad Region
+163,Female,49,36,77,503101,797772,Hyderabad Region
+164,Female,48,43,60,503125,754273,Hyderabad Region
+165,Female,22,70,89,503306,300512,Hyderabad Region
+166,Male,35,53,70,503123,773020,Hyderabad Region
+167,Male,18,63,58,503102,598095,Hyderabad Region
+168,Female,23,47,11,503112,726230,Hyderabad Region
+169,Female,44,68,14,503112,794709,Hyderabad Region
+170,Female,47,40,67,503112,720628,Hyderabad Region
+171,Female,39,28,57,503309,793919,Hyderabad Region
+172,Female,45,60,17,516129,575639,Kurnool Region
+173,Female,51,45,17,516237,363143,Kurnool Region
+174,Female,21,43,66,516237,385588,Kurnool Region
+175,Female,50,42,52,516237,561704,Kurnool Region
+176,Male,33,68,89,516130,473959,Kurnool Region
+177,Female,47,30,81,516130,485707,Kurnool Region
+178,Male,48,36,18,516130,324867,Kurnool Region
+179,Female,45,49,23,516130,703257,Kurnool Region
+180,Male,40,36,64,516130,769823,Kurnool Region
+181,Female,17,60,75,516151,759177,Kurnool Region
+182,Male,55,81,63,147111,501985,NA
+183,Female,40,45,86,147111,572455,NA
+184,Male,20,25,19,788162,450239,DivReportingCircle
+185,Male,51,30,82,788162,471328,DivReportingCircle
+186,Male,26,55,86,788150,430134,DivReportingCircle
+187,Female,21,37,47,788150,542002,DivReportingCircle
+188,Female,44,53,85,788150,500755,DivReportingCircle
+189,Male,27,37,56,788801,376068,DivReportingCircle
+190,Male,52,34,51,788801,684208,DivReportingCircle
+191,Female,47,65,44,788161,787542,DivReportingCircle
+192,Female,37,53,36,788161,664417,DivReportingCircle
+193,Male,17,84,34,788161,748778,DivReportingCircle
+194,Female,43,49,41,788161,399368,DivReportingCircle
+195,Male,43,33,33,788152,423530,DivReportingCircle
+196,Female,44,55,27,788152,344410,DivReportingCircle
+197,Female,55,48,54,788152,402174,DivReportingCircle
+198,Female,18,61,90,788155,473094,DivReportingCircle
+199,Male,21,74,30,788155,793266,DivReportingCircle
+200,Male,53,26,29,788155,750110,DivReportingCircle
+201,Female,40,64,62,788155,350060,DivReportingCircle
+202,Male,18,38,68,208001,775292,Kanpur Region
+203,Female,21,39,47,788150,503991,DivReportingCircle
+204,Female,24,84,92,788801,607772,DivReportingCircle
+205,Male,21,68,30,788801,656186,DivReportingCircle
+206,Male,20,32,77,788161,318920,DivReportingCircle
+207,Male,43,46,59,812006,487916,"East Region, Bhagalpur"
+208,Female,36,53,23,812006,375481,"East Region, Bhagalpur"
+209,Female,44,66,91,812006,638199,"East Region, Bhagalpur"
+210,Male,34,82,86,812006,477412,"East Region, Bhagalpur"
+211,Female,39,58,42,812006,490168,"East Region, Bhagalpur"
+212,Female,52,53,88,812006,644399,"East Region, Bhagalpur"
+213,Female,52,25,34,853204,533244,"East Region, Bhagalpur"
+214,Female,48,64,29,853204,602774,"East Region, Bhagalpur"
+215,Female,21,55,81,853204,680378,"East Region, Bhagalpur"
+216,Male,29,40,58,853204,600219,"East Region, Bhagalpur"
+217,Male,49,50,56,853204,485047,"East Region, Bhagalpur"
+218,Female,42,77,46,853204,458981,"East Region, Bhagalpur"
+219,Female,31,76,76,853204,606563,"East Region, Bhagalpur"
+220,Male,52,65,51,853204,576010,"East Region, Bhagalpur"
+221,Female,44,83,78,853204,776222,"East Region, Bhagalpur"
+222,Female,52,38,23,853204,725917,"East Region, Bhagalpur"
+223,Male,44,72,30,853204,509684,"East Region, Bhagalpur"
+224,Male,48,30,33,813209,332331,"East Region, Bhagalpur"
+225,Female,44,82,13,813209,542660,"East Region, Bhagalpur"
+226,Female,46,32,82,813209,475706,"East Region, Bhagalpur"
+227,Male,36,80,72,813209,554315,"East Region, Bhagalpur"
+228,Male,53,55,10,813209,629445,"East Region, Bhagalpur"
+229,Male,53,62,33,813209,449120,"East Region, Bhagalpur"
+230,Female,19,37,31,813209,336785,"East Region, Bhagalpur"
+231,Female,35,74,59,813209,699422,"East Region, Bhagalpur"
+232,Male,23,78,63,813209,467596,"East Region, Bhagalpur"
+233,Male,45,43,48,853205,347791,"East Region, Bhagalpur"
+234,Male,32,82,34,813210,431871,"East Region, Bhagalpur"
+235,Male,36,44,39,813210,571843,"East Region, Bhagalpur"
+236,Female,47,61,20,813210,668138,"East Region, Bhagalpur"
+237,Female,17,82,36,813108,752452,"East Region, Bhagalpur"
+238,Male,27,27,69,813108,771929,"East Region, Bhagalpur"
+239,Female,28,32,76,813108,319633,"East Region, Bhagalpur"
+240,Female,39,33,55,813108,416099,"East Region, Bhagalpur"
+241,Female,37,66,85,813108,415634,"East Region, Bhagalpur"
+242,Female,42,69,16,503309,405882,Hyderabad Region
+243,Female,52,47,48,503309,419735,Hyderabad Region
+244,Female,46,56,16,503108,484323,Hyderabad Region
+245,Male,22,85,34,503108,503515,Hyderabad Region
+246,Female,44,63,33,503108,437786,Hyderabad Region
+247,Female,55,29,76,503302,587516,Hyderabad Region
+248,Male,21,25,87,503310,490648,Hyderabad Region
+249,Male,32,43,69,503310,382527,Hyderabad Region
+250,Male,40,67,90,503310,743699,Hyderabad Region
+251,Female,22,62,57,503310,316844,Hyderabad Region
+252,Female,27,25,21,503310,590719,Hyderabad Region
+253,Female,43,29,53,503110,488352,Hyderabad Region
+254,Female,24,25,78,503110,702868,Hyderabad Region
+255,Female,39,81,29,503145,799839,Hyderabad Region
+256,Female,53,57,79,503145,331503,Hyderabad Region
+257,Male,48,69,10,503145,642384,Hyderabad Region
+258,Female,21,49,49,503120,653514,Hyderabad Region
+259,Male,50,36,49,503235,514493,Hyderabad Region
+260,Female,64,78,85,503235,629294,Hyderabad Region
+261,Female,33,61,9,503235,791661,Hyderabad Region
+262,Female,40,70,21,503235,681741,Hyderabad Region
+263,Male,59,51,21,503321,708086,Hyderabad Region
+264,Male,45,83,92,503185,783259,Hyderabad Region
+265,Female,18,74,64,503185,524939,Hyderabad Region
+266,Male,62,71,71,503185,522292,Hyderabad Region
+267,Male,34,71,24,503185,614771,Hyderabad Region
+268,Female,58,75,91,503230,726367,Hyderabad Region
+269,Male,39,70,66,503202,552281,Hyderabad Region
+270,Male,41,51,90,503202,563575,Hyderabad Region
+271,Female,57,40,45,503246,510819,Hyderabad Region
+272,Male,36,83,78,503246,471714,Hyderabad Region
+273,Female,63,26,30,503246,699138,Hyderabad Region
+274,Male,46,72,92,503305,392681,Hyderabad Region
+275,Female,27,47,28,503305,595076,Hyderabad Region
+276,Male,57,73,66,515842,542114,Kurnool Region
+277,Female,22,39,54,515803,459840,Kurnool Region
+278,Female,27,31,64,273001,304030,Gorakhpur Region
+279,Male,67,84,45,505186,787230,Hyderabad Region
+280,Female,34,37,55,505186,463814,Hyderabad Region
+281,Male,45,71,60,505186,520175,Hyderabad Region
+282,Male,68,45,14,505153,651306,Hyderabad Region
+283,Female,68,25,27,505153,353190,Hyderabad Region
+284,Female,48,54,41,505162,402734,Hyderabad Region
+285,Female,61,66,39,505162,664617,Hyderabad Region
+286,Female,22,58,79,505152,510401,Hyderabad Region
+287,Female,57,65,80,505152,554752,Hyderabad Region
+288,Female,43,33,62,505152,770062,Hyderabad Region
+289,Female,32,29,39,505514,526495,Hyderabad Region
+290,Male,57,67,91,505514,361241,Hyderabad Region
+291,Male,40,53,89,505514,778886,Hyderabad Region
+292,Female,61,69,66,505187,589091,Hyderabad Region
+293,Female,31,56,75,505187,723547,Hyderabad Region
+294,Female,54,65,31,505187,424560,Hyderabad Region
+295,Female,17,76,22,505212,472408,Hyderabad Region
+296,Female,45,79,28,505212,599790,Hyderabad Region
+297,Female,64,51,33,505525,313055,Hyderabad Region
+298,Female,35,72,15,505525,489962,Hyderabad Region
+299,Female,35,31,55,505525,530512,Hyderabad Region
+300,Male,20,77,14,505209,303596,Hyderabad Region
+301,Female,63,35,11,505209,551064,Hyderabad Region
+302,Male,26,36,79,505209,357299,Hyderabad Region
+303,Female,22,34,39,505188,608191,Hyderabad Region
+304,Male,48,64,44,505188,631700,Hyderabad Region
+305,Female,31,45,70,505186,369498,Hyderabad Region
+306,Male,27,45,71,505122,454948,Hyderabad Region
+307,Female,52,65,25,505498,556932,Hyderabad Region
+308,Male,62,84,90,505498,536769,Hyderabad Region
+309,Male,24,63,48,505498,734868,Hyderabad Region
+310,Male,68,79,16,788161,368785,DivReportingCircle
+311,Female,64,77,53,788161,332563,DivReportingCircle
+312,Female,24,85,23,524324,639291,Vijayawada Region
+313,Male,43,56,83,501301,318453,Hyderabad City Region
+314,Male,48,44,58,500088,308827,Hyderabad City Region
+315,Female,43,74,37,500088,327876,Hyderabad City Region
+316,Female,65,55,27,500100,799823,Hyderabad City Region
+317,Male,40,79,83,501401,601038,Hyderabad City Region
+318,Female,66,57,28,501102,561282,Hyderabad City Region
+319,Male,49,67,77,500101,671652,Hyderabad City Region
+320,Female,53,62,48,500101,690508,Hyderabad City Region
+321,Female,35,65,22,500078,313881,Hyderabad City Region
+322,Female,24,28,26,501509,668147,Hyderabad City Region
+323,Male,43,30,17,501301,652509,Hyderabad City Region
+324,Male,63,64,43,501301,530304,Hyderabad City Region
+325,Female,46,30,47,500088,508036,Hyderabad City Region
+326,Male,42,29,39,500043,547965,Hyderabad City Region
+327,Female,28,46,69,500043,597165,Hyderabad City Region
+328,Female,27,73,11,500087,470953,Hyderabad City Region
+329,Male,18,83,14,501401,459854,Hyderabad City Region
+330,Male,17,40,65,501401,664031,Hyderabad City Region
+331,Male,31,65,36,500078,771044,Hyderabad City Region
+332,Female,32,30,84,500101,446644,Hyderabad City Region
+333,Female,37,53,37,500101,666078,Hyderabad City Region
+334,Male,18,43,42,501505,393334,Hyderabad City Region
+335,Female,70,51,17,501301,488397,Hyderabad City Region
+336,Female,46,66,33,501301,508249,Hyderabad City Region
+337,Female,22,34,14,501301,420580,Hyderabad City Region
+338,Female,60,45,24,501301,669659,Hyderabad City Region
+339,Female,34,37,28,501301,612038,Hyderabad City Region
+340,Male,33,80,92,500088,660005,Hyderabad City Region
+341,Male,27,25,79,500043,558329,Hyderabad City Region
+342,Female,45,64,47,500055,797113,Hyderabad City Region
+343,Female,39,60,9,813108,597680,"East Region, Bhagalpur"
+344,Male,36,58,58,813108,655606,"East Region, Bhagalpur"
+345,Female,41,78,26,813207,353177,"East Region, Bhagalpur"
+346,Female,61,56,79,813207,750261,"East Region, Bhagalpur"
+347,Male,22,62,45,813110,580657,"East Region, Bhagalpur"
+348,Male,53,42,67,813110,741352,"East Region, Bhagalpur"
+349,Female,64,84,79,813109,433884,"East Region, Bhagalpur"
+350,Female,31,44,11,813109,625795,"East Region, Bhagalpur"
+351,Male,39,72,85,813109,589727,"East Region, Bhagalpur"
+352,Male,55,72,50,813109,601222,"East Region, Bhagalpur"
+353,Male,35,28,12,813107,345607,"East Region, Bhagalpur"
+354,Female,29,26,10,813107,454047,"East Region, Bhagalpur"
+355,Female,29,63,30,813211,708068,"East Region, Bhagalpur"
+356,Male,18,62,24,813211,736052,"East Region, Bhagalpur"
+357,Male,40,38,10,813211,421112,"East Region, Bhagalpur"
+358,Male,67,83,67,813211,497259,"East Region, Bhagalpur"
+359,Male,29,37,27,522658,369386,Vijayawada Region
+360,Female,70,58,49,522658,502328,Vijayawada Region
+361,Female,44,29,22,522614,634001,Vijayawada Region
+362,Male,55,81,16,522614,693414,Vijayawada Region
+363,Female,18,83,38,522614,661073,Vijayawada Region
+364,Female,64,79,57,522614,670031,Vijayawada Region
+365,Female,19,50,81,813222,677521,"East Region, Bhagalpur"
+366,Female,47,77,75,813222,794750,"East Region, Bhagalpur"
+367,Female,48,41,22,812005,473074,"East Region, Bhagalpur"
+368,Female,19,40,24,812005,620209,"East Region, Bhagalpur"
+369,Male,62,83,40,812005,618997,"East Region, Bhagalpur"
+370,Female,70,66,84,812006,388030,"East Region, Bhagalpur"
+371,Female,64,63,24,853204,397793,"East Region, Bhagalpur"
+372,Male,18,52,21,853204,607379,"East Region, Bhagalpur"
+373,Male,28,51,17,853204,683626,"East Region, Bhagalpur"
+374,Male,17,31,15,853204,348163,"East Region, Bhagalpur"
+375,Female,49,80,82,813209,786026,"East Region, Bhagalpur"
+376,Female,29,33,81,813209,734377,"East Region, Bhagalpur"
+377,Female,57,77,22,853205,451292,"East Region, Bhagalpur"
+378,Female,43,45,17,853205,716169,"East Region, Bhagalpur"
+379,Female,28,78,57,344011,768996,Jodhpur Region
+380,Female,35,57,70,342304,509090,Jodhpur Region
+381,Male,61,76,75,142049,564746,Punjab West Region
+382,Female,35,46,68,503207,729537,Hyderabad Region
+383,Male,24,37,16,503207,626958,Hyderabad Region
+384,Female,23,75,28,851210,334933,"East Region, Bhagalpur"
+385,Female,63,72,87,851127,592631,"East Region, Bhagalpur"
+386,Female,38,54,15,851127,599298,"East Region, Bhagalpur"
+387,Male,52,84,11,534239,586858,Vijayawada Region
+388,Male,68,40,91,534239,616237,Vijayawada Region
+389,Female,37,61,79,534239,652093,Vijayawada Region
+390,Male,38,72,16,534237,411314,Vijayawada Region
+391,Male,38,59,66,534237,591310,Vijayawada Region
+392,Female,51,72,67,534237,430604,Vijayawada Region
+393,Male,70,62,19,534247,596024,Vijayawada Region
+394,Male,69,43,11,534247,495754,Vijayawada Region
+395,Female,57,39,75,534247,704808,Vijayawada Region
+396,Male,50,25,40,534202,775083,Vijayawada Region
+397,Female,62,78,57,534202,425382,Vijayawada Region
+398,Male,36,66,35,534202,526786,Vijayawada Region
+399,Female,35,33,25,534243,744082,Vijayawada Region
+400,Male,48,53,32,534243,519906,Vijayawada Region
+401,Female,29,30,45,534243,447222,Vijayawada Region
+402,Female,21,80,37,534199,332240,Vijayawada Region
+403,Male,23,76,53,848201,346451,"East Region, Bhagalpur"
+404,Female,50,84,91,534134,633406,Vijayawada Region
+405,Male,46,34,54,502293,730767,Hyderabad City Region
+406,Male,22,81,66,502284,788890,Hyderabad City Region
+407,Female,39,51,47,813212,491921,"East Region, Bhagalpur"
+408,Female,64,84,35,851113,434246,"East Region, Bhagalpur"
+409,Female,20,71,65,851111,599043,"East Region, Bhagalpur"
+410,Female,48,44,67,851111,418288,"East Region, Bhagalpur"
+411,Female,48,36,71,851111,385960,"East Region, Bhagalpur"
+412,Female,17,25,61,851111,618688,"East Region, Bhagalpur"
+413,Female,36,71,35,851111,402810,"East Region, Bhagalpur"
+414,Male,36,64,51,851111,368458,"East Region, Bhagalpur"
+415,Male,64,43,49,851111,652562,"East Region, Bhagalpur"
+416,Female,31,77,42,851112,437941,"East Region, Bhagalpur"
+417,Female,49,41,21,851112,631679,"East Region, Bhagalpur"
+418,Female,29,82,86,851112,322231,"East Region, Bhagalpur"
+419,Female,56,85,58,503301,541857,Hyderabad Region
+420,Female,29,39,55,503301,751197,Hyderabad Region
+421,Female,27,76,57,503301,352772,Hyderabad Region
+422,Female,23,31,14,503206,483046,Hyderabad Region
+423,Female,67,57,48,503206,785534,Hyderabad Region
+424,Male,20,54,62,503206,420823,Hyderabad Region
+425,Female,47,81,30,503245,457786,Hyderabad Region
+426,Male,45,80,84,503245,692454,Hyderabad Region
+427,Female,47,45,75,503186,324423,Hyderabad Region
+428,Male,23,76,81,503201,766787,Hyderabad Region
+429,Female,35,82,81,503201,697118,Hyderabad Region
+430,Male,61,77,36,585447,434485,North Karnataka Region
+431,Female,68,59,11,585404,524352,North Karnataka Region
+432,Male,49,33,55,151214,536178,Punjab West Region
+433,Male,19,28,16,503187,547415,Hyderabad Region
+434,Male,54,53,30,503187,581254,Hyderabad Region
+435,Female,53,59,37,503187,313606,Hyderabad Region
+436,Female,47,80,85,503101,767658,Hyderabad Region
+437,Male,33,39,32,503101,517140,Hyderabad Region
+438,Male,31,56,34,503306,316080,Hyderabad Region
+439,Female,32,37,86,503123,700981,Hyderabad Region
+440,Female,34,80,15,503123,391119,Hyderabad Region
+441,Male,17,29,25,503114,527594,Hyderabad Region
+442,Female,23,53,18,503114,661958,Hyderabad Region
+443,Male,40,43,83,503102,776054,Hyderabad Region
+444,Female,33,42,84,503102,374407,Hyderabad Region
+445,Female,32,73,80,503102,665193,Hyderabad Region
+446,Female,54,85,69,503145,314475,Hyderabad Region
+447,Male,61,73,28,503112,381985,Hyderabad Region
+448,Male,49,65,63,503112,311511,Hyderabad Region
+449,Female,63,46,33,503124,468522,Hyderabad Region
+450,Male,24,50,71,503124,343807,Hyderabad Region
+451,Female,64,40,37,503309,582155,Hyderabad Region
+452,Female,68,59,27,503309,561091,Hyderabad Region
+453,Male,38,43,78,503309,579190,Hyderabad Region
+454,Male,29,66,80,503110,761704,Hyderabad Region
+455,Male,19,67,15,503144,498884,Hyderabad Region
+456,Female,62,39,25,503144,470594,Hyderabad Region
+457,Female,70,67,14,503144,776772,Hyderabad Region
+458,Male,65,38,32,503144,341948,Hyderabad Region
+459,Female,42,67,27,503122,761854,Hyderabad Region
+460,Female,49,64,74,503122,390845,Hyderabad Region
+461,Female,22,40,13,503310,619758,Hyderabad Region
+462,Female,37,46,45,503110,337303,Hyderabad Region
